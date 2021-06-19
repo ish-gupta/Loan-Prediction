@@ -33,9 +33,9 @@ The train dataset is split into training (X) and testing (y) dataset. The model 
 
 The LogisticRegression() function of the sci-kit library is used to train and test our model. 
 
-We get an accuracy score of 79.4594%. This means that the model can be used to predict the results of the test dataset  
+We get an accuracy score of **79.4594%**. This means that the model can be used to predict the results of the test dataset  
 
 ## Model Building II 
 We can also apply Logistic Regression using stratified k-folds cross validation. We make a model with 5 folds and make predictions on the test (y) dataset. 
 
-The model gives us a mean accuracy of 80.1292%
+The model gives us a mean accuracy of **80.1292%**
