@@ -1,5 +1,5 @@
 # Loan-Prediction
-Binary Classification model using a real-life case study of Dream Housing Finance to automate the loan eligibility process based on customer details provided.
+Binary Classification model using a real-life case study of Dream Housing Finance to automate the loan eligibility process (whether the customer is granted a loan or not), based on customer details provided.
 
 ## Requirements
 - Python = 3.7
