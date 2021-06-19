@@ -8,7 +8,10 @@ Binary Classification model using a real-life case study of Dream Housing Financ
 - sklearn = 0.19.1
 
 ## Dataset 
-The dataset used for training and testing have been uploaded as 'train_ctrUa4K.csv' and 'test_lAUu6dG.csv' respectively. The test dataset does not have the target variable, 'Loan Amount', which is to be predicted.
+The dataset used for training and testing have been uploaded as 'train_ctrUa4K.csv' and 'test_lAUu6dG.csv' respectively. The test dataset does not have the target variable, 'Loan Amount', which is to be predicted. 
+
+The dataset has the fields: _Loan_ID_ (C), _Gender_ (C), _Married_ (C), _Dependents_ (C), _Education_ (C), _Self_Employed_ (C), _ApplicantIncome_ (N), _CoapplicantIncome_ (N), _LoanAmount_ (N), _Loan_Amount_Term_ (N), _Credit_History_ (C), _Property_Area_ (C), and _Loan_Status_ (Target Variable).                                                                                  
+###### (C) represents categorical variables while (N) represents  numerical variables.
 
 ## Data Visualization
 ### Univariate Analysis
